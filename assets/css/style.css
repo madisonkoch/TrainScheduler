@@ -7,10 +7,12 @@ h1{
     margin-right: 5px;
     padding-top: 20px;
     font-family: 'Monoton', cursive;
+    color: white;
 }
 #plane{
     font-family: 'Syncopate', sans-serif;   
     margin-left:5px;
+    font-size: 40px;
 }
 #h1-holder{
     display:flex;
@@ -66,8 +68,16 @@ h1{
 .btn-info{
     background-color: #80d6ff;
     border-color: #80d6ff;
+    margin:15px;
+    margin-top:unset;
 }
 .btn-info:hover{
     background-color: #0077c2;
     border-color: #0077c2;
+}
+.right{
+    text-align:right;
+}
+.center{
+    text-align:center;
 }
