@@ -11,3 +11,5 @@ This webpage uses Firebase for employees to submit information about trains, hav
 #### Description
 
 As an employee, all you have to do is enter the train's information (i.e. name, destination, first arrival time and frequency). The webiste will calculate the train's next arrival and how many minutes until it's next arrival.
+
+https://madisonkoch.github.io/TrainScheduler/
